@@ -1,0 +1,10 @@
+.table__text {
+  /*border: 5px solid hotpink;*/
+  display: flex;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: normal;
+}

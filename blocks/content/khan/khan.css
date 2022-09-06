@@ -1,0 +1,17 @@
+@import url(../khan/__container/__container.css);
+@import url(../khan/__author/__author.css);
+@import url(../khan/__title/__title.css);
+@import url(../khan/__quote/__quote.css);
+@import url(../khan/__quote-author/__quote-author.css);
+@import url(../khan/__quote-author-subline/__quote-author-subline.css);
+@import url(../khan/__book-container/__book-container.css);
+@import url(../khan/__book-pic/__book-pic.css);
+@import url(../khan/__buy-link/__buy-link.css);
+
+.khan {
+  display: flex;
+  justify-content: center;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 105px 0 0;
+}

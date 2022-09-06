@@ -1,0 +1,18 @@
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+
+@import url(../video/__iframes/__iframes.css);
+@import url(../video/__iframe/__iframe.css);
+
+.video {
+  /*border: 5px solid hotpink;*/
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 50px;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 50px 0 0;
+}

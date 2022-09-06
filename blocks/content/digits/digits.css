@@ -1,0 +1,28 @@
+/*--Заголовок таблицы--*/
+@import url(../section-title/section-title.css);
+
+/*--Подзаголовок таблицы--*/
+@import url(../section-subtitle/section-subtitle.css);
+
+/*--Таблица--*/
+@import url(../digits/table/table.css);
+
+/*--Ячейка--*/
+@import url(../digits/table/__cell/__cell.css);
+
+/*--Заголовок ячейки--*/
+@import url(../digits/table/__heading/__heading.css);
+
+/*--Текст ячейки--*/
+@import url(../digits/table/__text/__text.css);
+
+.digits {
+  /*border: 5px solid hotpink;*/
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 100px 0 100px;
+}

@@ -1,0 +1,33 @@
+/**--Логотип--*/
+@import url(../logo/logo.css);
+@import url(../logo/_place/_header.css);
+
+/*Заголовок*/
+@import url(../header/__title/__title.css);
+
+/*Подзаголовок*/
+@import url(../header/__subtitle/__subtitle.css);
+
+/*Ссылка*/
+@import url(../header/__link/__link.css);
+
+/*Иллюстрация*/
+@import url(../header/__main-illustration/__main-illustration.css);
+
+/*Квадрат*/
+@import url(../header/__square-pic/__square-pic.css);
+
+.header {
+  position: relative;
+  display: flex;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  z-index: 1;
+  overflow: hidden;
+}

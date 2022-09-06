@@ -1,0 +1,10 @@
+/*--two-columns--*/
+@import url(../description/two-columns/two-columns.css);
+
+.description {
+  /*border: 5px solid hotpink;*/
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  }
