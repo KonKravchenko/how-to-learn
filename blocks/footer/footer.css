@@ -1,23 +1,4 @@
-/**--Логотип--*/
-@import url(../logo/logo.css);
-@import url(../logo/_place/_footer.css);
 
-@import url(../footer/__columns/__columns.css);
-
-@import url(../footer/__column/__column.css);
-@import url(../footer/__column/_content/_copyright.css);
-@import url(../footer/__column/_content/_info.css);
-@import url(../footer/__column/_content/_social.css);
-
-@import url(../footer/__column-heading/__column-heading.css);
-
-@import url(../footer/__column-links/__column-links.css);
-
-@import url(../footer/__column-link/__column-link.css);
-
-@import url(../footer/__social-icon/__social-icon.css);
-
-@import url(../footer/__author/__author.css);
 
 .footer {
   background-color: #1f1f1f;

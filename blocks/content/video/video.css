@@ -1,8 +1,4 @@
-@import url(../section-title/section-title.css);
-@import url(../section-subtitle/section-subtitle.css);
 
-@import url(../video/__iframes/__iframes.css);
-@import url(../video/__iframe/__iframe.css);
 
 .video {
   /*border: 5px solid hotpink;*/

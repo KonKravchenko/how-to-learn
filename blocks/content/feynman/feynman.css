@@ -1,11 +1,4 @@
-/*--заголовок Фейнмана--*/
-@import url(../feynman/__title/__title.css);
 
-/*--подзаголовок Фейнмана--*/
-@import url(../feynman/__subtitle/__subtitle.css);
-
-/*--ссылка Фейнмана--*/
-@import url(../feynman/__link/__link.css);
 
 .feynman {
   position: relative;

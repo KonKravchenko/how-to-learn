@@ -1,21 +1,3 @@
-/**--Логотип--*/
-@import url(../logo/logo.css);
-@import url(../logo/_place/_header.css);
-
-/*Заголовок*/
-@import url(../header/__title/__title.css);
-
-/*Подзаголовок*/
-@import url(../header/__subtitle/__subtitle.css);
-
-/*Ссылка*/
-@import url(../header/__link/__link.css);
-
-/*Иллюстрация*/
-@import url(../header/__main-illustration/__main-illustration.css);
-
-/*Квадрат*/
-@import url(../header/__square-pic/__square-pic.css);
 
 .header {
   position: relative;

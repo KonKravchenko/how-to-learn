@@ -1,14 +1,4 @@
-/*--Заголовок таблицы--*/
-@import url(../section-title/section-title.css);
 
-/*--Подзаголовок таблицы--*/
-@import url(../section-subtitle/section-subtitle.css);
-
-@import url(../resources/__logo-zone/__logo-zone.css);
-
-@import url(../resources/__link/__link.css);
-
-@import url(../resources/__logo/__logo.css);
 
 .resources {
   display: flex;

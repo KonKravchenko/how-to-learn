@@ -1,35 +1,4 @@
-/*--Заголовок таблицы--*/
-@import url(../section-title/section-title.css);
-/*--Заголовок таблицы-тёмная тема-*/
-@import url(../section-title/_theme/_dark.css);
 
-/*--Подзаголовок таблицы--*/
-@import url(../section-subtitle/section-subtitle.css);
-/*--Подзаголовок таблицы-тёмная тема-*/
-@import url(../section-subtitle/_theme/_dark.css);
-
-/*--Таблица--*/
-@import url(../digits/table/table.css);
-/*--Таблица-тёмная тема-*/
-@import url(../digits/table/_theme/_dark.css);
-
-/*--Ячейка--*/
-@import url(../digits/table/__cell/__cell.css);
-/*--Ячейка-тёмная тема-*/
-@import url(../digits/table/__cell/_theme/_dark.css);
-
-/*--Заголовок ячейки--*/
-@import url(../digits/table/__heading/__heading.css);
-/*--Заголовок ячейки-тёмная тема-*/
-@import url(../digits/table/__heading/_theme/_dark.css);
-
-/*--Текст ячейки--*/
-@import url(../digits/table/__text/__text.css);
-/*--Текст ячейки-тёмная тема-*/
-@import url(../digits/table/__text/_theme/_dark.css);
-
-/*--Треугольник--*/
-@import url(../kaufman/__triangle/__triangle.css);
 
 .kaufman {
   position: relative;

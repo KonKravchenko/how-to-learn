@@ -1,11 +1,4 @@
-/*--Заголовок таблицы--*/
-@import url(../section-title/section-title.css);
 
-/*--Подзаголовок таблицы--*/
-@import url(../section-subtitle/section-subtitle.css);
-
-/*--Карточки--*/
-@import url(../techniques/cards/cards.css);
 
 .techniques {
   /*border: 5px solid hotpink;*/
